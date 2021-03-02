@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/words_menu_button"
+        android:title="Kelimelerim" />
+    <item
+        android:id="@+id/change_language"
+        android:title="Dil Değiştir" />
+</menu>
